@@ -1,2 +1,4 @@
 # Project-public
-My first project in Cypress tool
+Meu primeiro projeto em Cypress
+
+Ele consiste em aceesar página do Duckduckgo realizar uma pesquisa e após isso fazer o download de uma imagem.
